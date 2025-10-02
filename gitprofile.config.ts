@@ -153,11 +153,19 @@ const CONFIG = {
     
   ],
   experiences: [
+
+      {
+      company: 'Pentara',
+      position: 'Statistician',
+      from: 'May 2025',
+      to: 'Present',
+      companyLink: 'https://www.pentara.com/',
+      },
       {
       company: 'Y2 Analytics',
       position: 'Intern Data Analyst',
       from: 'January 2025',
-      to: 'Present',
+      to: 'April 2025',
       companyLink: 'https://y2analytics.com/',
       },
       {
